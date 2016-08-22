@@ -1,14 +1,12 @@
-piWallet
+OperaCoin (OPC)
 ========
 
-piWallet is a secure opensource online altcoin wallet that works with practically any altcoin.
+Operacoin Web Wallet is a fork of piWallet-johnathanmartin 
 
-Setup: https://github.com/johnathanmartin/piWallet/wiki
-
-Bitcoin Talk: https://bitcointalk.org/index.php?topic=911212
+Credit: https://github.com/johnathanmartin/piWallet/wiki
 
 Whats New:
-- API - Currently we do not support sending funds or adding aditional addresses via API. View Documentation: https://github.com/johnathanmartin/piWallet/wiki/API
+- Send / Recieve Operacoin
 
 - QR Codes for Addresses
 
@@ -17,13 +15,9 @@ Whats New:
 - [Support Pin](https://github.com/johnathanmartin/piWallet/wiki/Support-Pin)
 
 
-Planned Features:
+Future Features may include:
 - Have QR Codes open in lightbox instead of new tab
 
 - Improved Bootstrap Theme 
 
 - Control of Private Keys
-
-Donate:
-
-PayPal: http://jmartin.me/pay
