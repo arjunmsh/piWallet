@@ -29,10 +29,10 @@ $rpc_port = "8332";
 $rpc_user = "bitcoinrpc";
 $rpc_pass = "Cp68nBkCAADKkskaKSskaDKdmSYLtLJ";
 
-$fullname = "Bitcoin"; //Website Title (Do Not include 'wallet')
-$short = "BTC"; //Coin Short (BTC)
+$fullname = "Operacoin"; //Website Title (Do Not include 'wallet')
+$short = "OPC"; //Coin Short (BTC)
 $blockchain_url = "http://blockchain.info/tx/"; //Blockchain Url
-$support = "support@yourwebsite.com"; //Your support eMail
+$support = "info@operacoin.com"; //Your support eMail
 $hide_ids = array(1); //Hide account from admin dashboard
 $donation_address = "13jy6rHB7HMgQBoYxQQXSM7TFTZZ6CDAAZ"; //Donation Address
 
